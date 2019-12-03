@@ -18,5 +18,8 @@
     <ClCompile Include="Advent-2015-1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Advent-2015-3\Advent-2015-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
